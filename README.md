@@ -1,3 +1,4 @@
-# BitCode
+# bitcode
 
-比特云Github代码
+#### 介绍
+比特代码
